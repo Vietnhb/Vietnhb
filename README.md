@@ -1,21 +1,20 @@
-<<<<<<< HEAD
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Viet+Nguyen+👋;Student+at+FPT+University+🎓;Welcome+to+my+GitHub+!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Viet+Nguyen+%F0%9F%91%8B;Student+at+FPT+University+%F0%9F%8E%93;Welcome+to+my+GitHub+!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-- 🎓 I'm currently studying at **FPT University (FPTU)**
-- 🌱 I'm learning **Web Development & Software Engineering & Japan Language**
-- 💻 Passionate about coding and building things
-- 📫 Reach me at: **[github.com/Vietnhb](https://github.com/Vietnhb)**
+- I'm currently studying at **FPT University (FPTU)**
+- I'm learning **Web Development & Software Engineering & Japan Language**
+- Passionate about coding and building things
+- Reach me at: **[github.com/Vietnhb](https://github.com/Vietnhb)**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -29,21 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vietnhb&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietnhb&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-=======
-## Hi there 👋
-
-<!--
-**Vietnhb/Vietnhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 5d8a215a7ae5cb54bdc4a3706a7f66fdc9db4946
