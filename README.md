@@ -8,7 +8,8 @@
 ### About Me
 
 - I'm currently studying at **FPT University (FPTU)**
-- I'm learning **Web Development & Software Engineering & Japan Language**
+- I'm learning **Web Development & Software Engineering & Japan Language & Reverse Engineering**
+- 🚩 I'm interested in **CTF (Capture The Flag)**
 - Passionate about coding and building things
 - Reach me at: **[github.com/Vietnhb](https://github.com/Vietnhb)**
 
@@ -16,6 +17,7 @@
 
 ### Tech Stack
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
