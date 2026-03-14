@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Viet+Nguyen+👋;Student+at+FPT+University+🎓;Welcome+to+my+GitHub+!+🚀" alt="Typing SVG" />
@@ -28,3 +29,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vietnhb&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vietnhb&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+=======
+## Hi there 👋
+
+<!--
+**Vietnhb/Vietnhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 5d8a215a7ae5cb54bdc4a3706a7f66fdc9db4946
