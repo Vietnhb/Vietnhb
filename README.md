@@ -12,6 +12,7 @@
 - 🚩 I'm interested in **CTF (Capture The Flag)**
 - Passionate about coding and building things
 - Reach me at: **[github.com/Vietnhb](https://github.com/Vietnhb)**
+- 📚 If you want to access my academic materials and study resources, visit: **[baovietweb.site](https://baovietweb.site/)**
 
 ---
 
